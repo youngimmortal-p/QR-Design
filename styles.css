@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: Outfit Bold;
+    src: url(outfit-bold.tff);
+}
+@font-face{
+    font-family: Outfit ExtraBold;
+    src: url(outfit-extrabold.tff);
+}
+body{
+    background-color:  hsl(212, 45%, 89%);
+    margin: 0;
+   
+}
+main{
+    width: 220px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 8px;
+    border-radius: 10px;
+}
+main #qrimg{  
+    border-radius: 10px;
+}
+main h2{
+    font-size: 16px;
+    font-weight: 900;
+    text-align: center;
+    font-family: Outfit ExtraBold;
+}
+main p{
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center; 
+    font-family: Outfit Light;
+}
