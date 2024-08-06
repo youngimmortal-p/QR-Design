@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/FireShot%20Capture%20001%20-%20QR%20Scan%20-%20127.0.0.1.png)
 
 ### Links
-- Live Site URL: [https://youngimmortal-p.github.io/QR-Design/](https://your-live-site-url.com)
+- Live Site URL: [https://youngimmortal-p.github.io/QR-Design/]
 
 ## My process
 
